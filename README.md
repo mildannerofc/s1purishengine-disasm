@@ -1,0 +1,59 @@
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/d8cb881b-5a60-4c25-9cfd-eab6585ea23e" />
+
+# Sonic 1 - Purish Engine
+A modified disassembly of Sonic 1 with Purish entities and modifications.
+
+This is not any "Sonic 1 Definitive" at all, according to the code improvement and adjustments (Do not call it "Sonic 1 Definitive" anyways). This is Sonic 1 Engine Base that Mildanner made by modifying it how does he like to be used in a ROM Hack Structure but with improved stuff.
+
+If you want to use this modified disassembly base for your own work (Even for your ROM Hack concept), plesae do **not cut off the credits of Purish Engine. Also includes the repository owner.**
+
+## Known Modifications in Engine
+* PAL fix SMPS;
+* Sonic Jump Dash Ability;
+* Clap and Cymbal added to Mega PCM;
+* Clean palette in half;
+* Smooth special stage;
+* Global boss HP counter;
+* Expanded sound index;
+* ASCII Level Select;
+* Speed Cap Removed;
+* Extended Debug Mode;
+* New 2 water palette for Labyrinth Zone and SBZ 3;
+* Eggman and S Monitor are now functional;
+* Debug Mode fixed placing items.
+## Credits
+* Mildanner - Disassembly Modifier, Palette Editor
+## Special thanks
+* Vladikcomper - Mega PCM 2 and Error Handler
+* SCHG - Fixing & Improving Game Code
+* TheBlad768 - The action build ROM from S.C.E modified to work on Sonic 1 disassembly
+* Mercury - ReadySonic
+* Selbi - Sonic CD SFX Jump
+* ProjectFM - Jump Dash Code
+* Nineko - Mean Bean SMPS Port
+* Techokami - Custom Font HUD
+* CartoonsAnimate22 - Sprites
+* DarkShamilKhan - Inspiration
+* Hivebrain - Original disassembly
+* Sonic Retro - GitHub disassembly
+* RetroKoH - Help with Extended Debug Mode and some guides
+* SoullessSentinel - Sonic 1 ASCII Level Select Font
+* PeanutNoceda - Unique HUD Life Counter inspiration
+* Louplayer - Custom Sonic Monitor Sprite
+* Nineko - Functional eggman monitor
+## Programs used
+* Audacity - PCM exporting
+* Notepad++ - Coding
+* Paint.NET - Manual image editing
+* Flex2 - Sprite editing
+* ClownMapEd - Simple art editing
+* HivePal - Change palettes
+* SMPSConv - Music conversions
+
+Original disassembly is in [here](https://github.com/sonicretro/s1disasm)
+
+**Sonic 1 - Purish Engine** is a non-commercial open source project involving some custom made by third party and copyrighted material, this project is created for entertainment purposes only.
+
+**Sonic the Hedgehog™ © SEGA**
+
+**Sonic Purish "Engine" © MLDN 2025-26**
